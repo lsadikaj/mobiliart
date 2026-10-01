@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "amenagement": "Arredamento",
+    "materiaux": "Materiali",
+    "construction": "Costruzione",
+    "realisations": "Realizzazioni",
+    "exclusivites": "Esclusività",
+    "espace_pro": "Spazio Pro",
+    "apporteur": "Programma Partner",
+    "a_propos": "Chi siamo",
+    "contact": "Contatto & Preventivo",
+    "devis": "Contatto & Preventivo"
+  },
+  "hero": {
+    "tagline": "Progettare • Fornire • Realizzare",
+    "subtitle": "Il vostro partner di fiducia per l'arredamento d'interni, i materiali da costruzione e le strutture metalliche",
+    "cta_discover": "Scopri le nostre soluzioni",
+    "cta_devis": "Richiedi preventivo",
+    "showroom_badge": "Showroom in apertura a Payerne 🇨🇭"
+  },
+  "footer": {
+    "description": "Azienda familiare specializzata nell'arredamento d'interni di lusso, i materiali da costruzione e le strutture metalliche.",
+    "rights": "© 2024 MOBILIART – Tutti i diritti riservati",
+    "mentions": "Note legali",
+    "privacy": "Informativa sulla privacy"
+  },
+  "univers": {
+    "title": "I nostri universi",
+    "subtitle": "Soluzioni complete pensate per ogni fase del vostro progetto",
+    "discover": "Scoprire",
+    "services": {
+      "amenagement": { "titre": "Arredamento d'Interni", "description": "Cucine, bagni, cabine armadio e mobili su misura per valorizzare i vostri spazi." },
+      "materiaux": { "titre": "Materiali & Attrezzature", "description": "Piastrelle, parquet, pietra naturale, finestre e tende di qualità professionale." },
+      "construction": { "titre": "Soluzioni di Costruzione", "description": "Strutture metalliche, pergole, parapetti, porte da garage e deck esterni." },
+      "exclusivites": { "titre": "Esclusività", "description": "Opere d'arte, sculture e mobili di lusso Boca do Lobo e designer." }
+    }
+  },
+  "promises": {
+    "title": "Le nostre 3 promesse",
+    "subtitle": "Perché scegliere Mobiliart?",
+    "items": [
+      { "title": "Un unico partner", "description": "Soluzioni complete dalla A alla Z — dalla progettazione alla realizzazione, un unico interlocutore per il vostro progetto." },
+      { "title": "Rete di partner qualificati", "description": "Fornitori e artigiani fidati selezionati con cura per garantire la qualità ad ogni fase." },
+      { "title": "Accompagnamento personalizzato", "description": "Consulenza su misura ad ogni fase — la vostra piena soddisfazione è la nostra priorità." }
+    ]
+  },
+  "realisations_preview": {
+    "title": "Le nostre realizzazioni",
+    "subtitle": "Un'anteprima delle nostre realizzazioni di lusso",
+    "see_all": "Vedi tutte le realizzazioni"
+  },
+  "about": {
+    "hero_title": "Chi siamo",
+    "hero_tagline": "Famiglia • Fiducia • Eccellenza",
+    "hero_subtitle": "Azienda familiare specializzata nell'arredamento di lusso da diversi anni.",
+    "history_title": "La nostra storia",
+    "history_p1": "Azienda familiare a misura d'uomo, abbiamo sviluppato un servizio di vendita che soddisfa al 100% una vasta clientela.",
+    "history_p2": "Affidandovi a noi, avrete un unico interlocutore esperto che vi fornirà consigli su misura.",
+    "history_p3": "La vostra piena soddisfazione è la nostra prima priorità.",
+    "values_title": "I nostri valori",
+    "values_subtitle": "La nostra filosofia in tre parole.",
+    "values": [
+      { "titre": "Progettare", "desc": "Ogni progetto inizia con un ascolto attento delle vostre esigenze per creare spazi che vi rispecchiano." },
+      { "titre": "Fornire", "desc": "Selezioniamo i materiali e le attrezzature di maggiore qualità da fornitori fidati." },
+      { "titre": "Realizzare", "desc": "I nostri team e artigiani partner garantiscono una realizzazione accurata, nei tempi concordati." }
+    ],
+    "find_us": "Dove trovarci"
+  },
+  "amenagement": {
+    "hero_title": "Arredamento d'Interni",
+    "hero_tagline": "Progettare • Fornire • Realizzare",
+    "hero_subtitle": "Soluzioni su misura per valorizzare i vostri spazi interni.",
+    "solutions_title": "Le nostre soluzioni",
+    "solutions_subtitle": "Un unico interlocutore per tutti i vostri desideri di arredamento d'interni di lusso.",
+    "cta_text": "Avete un progetto di arredamento d'interni?",
+    "cta_btn": "Richiedi preventivo",
+    "solutions": ["Cucine su misura", "Bagni completi", "Cabine armadio & ripostigli", "Mobili personalizzati", "Rivestimenti & finiture"]
+  },
+  "materiaux": {
+    "hero_title": "Materiali & Attrezzature",
+    "hero_tagline": "Qualità • Durabilità • Eleganza",
+    "hero_subtitle": "Materiali di qualità professionale per progetti duraturi ed eleganti.",
+    "gammes_title": "Le nostre gamme",
+    "gammes_subtitle": "Una selezione rigorosa delle migliori gamme per ogni progetto.",
+    "process_title": "Processo d'ordine",
+    "process_subtitle": "Ordinate facilmente in 4 semplici passaggi.",
+    "cta_text": "Avete bisogno di materiali o attrezzature?",
+    "cta_btn": "Ottenere un'offerta",
+    "gammes": ["Piastrelle", "Parquet", "Pietra naturale, marmo & granito", "Finestre & porte", "Tende & protezioni solari"],
+    "etapes": [
+      "Consultate i nostri cataloghi e selezionate i vostri articoli (numeri di riferimento)",
+      "Inviate la vostra richiesta tramite il modulo di contatto",
+      "Preventivo preparato entro 48 ore lavorative",
+      "Consegna in 3–4 settimane al vostro indirizzo"
+    ]
+  },
+  "construction": {
+    "hero_title": "Soluzioni di Costruzione",
+    "hero_tagline": "Affidabilità • Tecnica • Su misura",
+    "hero_subtitle": "Soluzioni affidabili, tecniche e su misura per i vostri progetti di costruzione.",
+    "solutions_title": "Le nostre soluzioni",
+    "solutions_subtitle": "Dalla struttura metallica al deck esterno, copriamo tutte le vostre esigenze.",
+    "cta_text": "Avete un progetto di costruzione?",
+    "cta_btn": "Studiare il mio progetto",
+    "solutions": [
+      { "titre": "Strutture metalliche", "desc": "Capannoni industriali, agricoli, depositi, officine" },
+      { "titre": "Pergole & verande", "desc": "Bioclimatiche, motorizzate, chiusure vetrate" },
+      { "titre": "Parapetti", "desc": "Vetro, acciaio inox, alluminio" },
+      { "titre": "Porte da garage", "desc": "Residenziali, collettive, industriali, rapide" },
+      { "titre": "Tende & protezioni solari", "desc": "Integrazione architettonica di lusso" },
+      { "titre": "Deck esterni", "desc": "Terrazza, balcone, finiture premium" }
+    ]
+  },
+  "realisations": {
+    "hero_title": "Le nostre Realizzazioni",
+    "hero_tagline": "Eccellenza • Savoir-faire • Prestigio",
+    "hero_subtitle": "Scoprite alcune delle nostre realizzazioni di lusso.",
+    "gallery_title": "Galleria delle realizzazioni",
+    "cta_text": "Desiderate un progetto simile?",
+    "cta_btn": "Voglio un progetto simile",
+    "cat_tout": "Tutti",
+    "cat_amenagement": "Arredamento d'interni",
+    "cat_cuisines": "Cucine",
+    "cat_salle_de_bain": "Bagno",
+    "cat_exterieur": "Esterno",
+    "cat_construction": "Costruzione"
+  },
+  "exclusivites": {
+    "hero_title": "Esclusività",
+    "hero_tagline": "Raro • Prestigioso • Unico",
+    "hero_subtitle": "Una selezione rara e prestigiosa di pezzi unici e opere d'arte.",
+    "range_title": "La nostra gamma d'eccezione",
+    "range_subtitle": "Pezzi eccezionali dei più grandi designer mondiali.",
+    "cta_text": "Scoprite la gamma completa allo showroom di Payerne",
+    "cta_btn": "Fissare un appuntamento",
+    "items": [
+      { "titre": "Boca do Lobo", "description": "Mobili iconici del lusso portoghese" },
+      { "titre": "Sculture in legno naturale", "description": "Opere uniche di designer" },
+      { "titre": "Sculture artistiche in resina", "description": "Arte contemporanea esclusiva" },
+      { "titre": "Mobili & oggetti di lusso", "description": "Selezione premium su misura" }
+    ]
+  },
+  "contact": {
+    "hero_title": "Contatto & Preventivo",
+    "hero_tagline": "Parliamo del vostro progetto",
+    "hero_subtitle": "Il nostro team risponde rapidamente per studiare insieme il vostro progetto.",
+    "coords_title": "I nostri contatti",
+    "coords_subtitle": "Trovateci a Payerne o contattateci direttamente.",
+    "address_label": "Indirizzo",
+    "phone_label": "Telefono",
+    "email_label": "E-mail",
+    "website_label": "Sito web",
+    "hours_label": "Orari",
+    "whatsapp_btn": "Contattaci direttamente su WhatsApp",
+    "form_title": "Richiesta di preventivo",
+    "form_subtitle": "Descrivete il vostro progetto, vi ricontattiamo rapidamente.",
+    "field_nom": "Cognome",
+    "field_prenom": "Nome",
+    "field_telephone": "Telefono",
+    "field_email": "E-mail",
+    "field_project_type": "Tipo di progetto",
+    "field_date": "Data desiderata",
+    "field_message": "Il vostro messaggio",
+    "field_select": "Selezionare",
+    "checkbox_terms": "Accetto le condizioni generali e la politica sulla privacy",
+    "checkbox_offers": "Desidero ricevere offerte e novità di Mobiliart",
+    "submit_btn": "Invia la mia richiesta via WhatsApp",
+    "project_types": ["Arredamento d'interni", "Materiali & attrezzature", "Soluzioni di costruzione", "Esclusività", "Spazio Professionale", "Programma Partner", "Altro"],
+    "hours": [
+      { "jour": "Lunedì – Venerdì", "heure": "08:00 – 18:30" },
+      { "jour": "Sabato", "heure": "Su appuntamento" },
+      { "jour": "Domenica", "heure": "Chiuso", "closed": true }
+    ]
+  },
+  "espacepro": {
+    "hero_title": "Spazio Professionale",
+    "hero_tagline": "Partner • BtoB • Eccellenza",
+    "hero_subtitle": "Il vostro partner per semplificare i vostri progetti e ottimizzare i costi.",
+    "advantages_title": "I nostri vantaggi pro",
+    "advantages_subtitle": "Vantaggi esclusivi pensati per i professionisti.",
+    "partners_title": "Lavoriamo con",
+    "form_title": "Richiesta accesso pro",
+    "form_subtitle": "Compilate questo modulo per accedere alle nostre tariffe e servizi professionali.",
+    "field_nom": "Nome / Cognome",
+    "field_societe": "Società",
+    "field_telephone": "Telefono",
+    "field_email": "E-mail",
+    "field_activite": "Tipo di attività",
+    "field_select": "Selezionare",
+    "submit_btn": "Invia la richiesta",
+    "advantages": [
+      { "titre": "Tariffe professionali", "desc": "Prezzi competitivi riservati ai professionisti del settore." },
+      { "titre": "Prodotti su misura", "desc": "Soluzioni adattate alle vostre specifiche tecniche." },
+      { "titre": "Approvvigionamento affidabile", "desc": "Tempi controllati e tracciamento degli ordini in tempo reale." },
+      { "titre": "Supporto tecnico", "desc": "Esperti disponibili per consigliarvi ad ogni fase." },
+      { "titre": "Offerte promozionali", "desc": "Accesso esclusivo alle nostre promozioni e nuovi prodotti." },
+      { "titre": "Tracciamento ordini", "desc": "Interfaccia dedicata per gestire facilmente i vostri ordini." }
+    ],
+    "cibles": ["Architetti", "Agenzie", "Promotori", "Aziende", "Industrie", "Agricoltori"],
+    "activites": ["Architettura", "Agenzia immobiliare", "Promozione immobiliare", "Impresa di costruzione", "Industria", "Agricoltura", "Altro"]
+  },
+  "apporteur": {
+    "hero_title": "Programma Partner d'Affari",
+    "hero_tagline": "Opportunità • Commissione • Libertà",
+    "hero_subtitle": "Trasformate la vostra rete in ricchezza duratura",
+    "opportunity_title": "Un'opportunità senza rischi",
+    "opportunity_subtitle": "Aderite al nostro programma partner con facilità.",
+    "commission_label": "di commissione su tutti gli affari conclusi",
+    "how_title": "Come funziona",
+    "how_subtitle": "Un processo semplice e trasparente.",
+    "timeline_title": "Il percorso del cliente",
+    "timeline_subtitle": "Dalla presentazione alla commissione.",
+    "targets_title": "Clienti target",
+    "form_title": "Diventare Partner",
+    "form_subtitle": "Aderite oggi alla nostra rete di partner.",
+    "field_nom": "Nome / Società",
+    "field_telephone": "Telefono",
+    "field_email": "E-mail",
+    "field_adresse": "Indirizzo",
+    "field_message": "Messaggio (opzionale)",
+    "submit_btn": "Diventare Partner",
+    "legal_text": "Questo programma è soggetto al diritto svizzero (CO art. 394ss, art. 412ss). Foro giuridico: Cantone di Vaud.",
+    "checkpoints": ["Nessun investimento finanziario", "Nessun magazzino o deposito", "Nessun cantiere da gestire", "Nessuna conoscenza tecnica richiesta", "Portate solo contatti e progetti"],
+    "etapes": [
+      { "titre": "Cosa fornisce Mobiliart", "desc": "Prodotti di lusso, competenza tecnica, showroom, gestione completa del dossier." },
+      { "titre": "Il vostro ruolo", "desc": "Presentare e promuovere: privati, aziende, agricoltori, architetti, ecc." },
+      { "titre": "Cosa fa Mobiliart", "desc": "Contatto, appuntamenti, preventivi, studio tecnico, negoziazione, coordinamento lavori." },
+      { "titre": "Commissione", "desc": "15% del margine netto su ogni affare firmato e realizzato." },
+      { "titre": "Pagamento", "desc": "Entro 10 giorni lavorativi dopo il pagamento completo del cliente." },
+      { "titre": "Protezione dei contatti", "desc": "Ogni contatto trasmesso per iscritto è protetto per 12 mesi." }
+    ],
+    "timeline": ["Trovare un contatto", "Presentare Mobiliart", "Inviare contatto/progetto", "Mobiliart fissa appuntamento", "Preventivo & firma", "Commissione pagata 💰"],
+    "cibles": ["Ville", "Aziende", "Agricoltori", "Architetti", "Agenzie", "Promotori", "Industrie"]
+  },
+  "stats": {
+    "items": [
+      { "value": "Payerne", "label": "Showroom premium", "sub": "Route de Grandcour 63C" },
+      { "value": "50+", "label": "Progetti realizzati", "sub": "Arredamento & costruzione" },
+      { "value": "10–20%", "label": "Commissione partner", "sub": "Programma partner" },
+      { "value": "100%", "label": "Soddisfazione cliente", "sub": "La nostra prima priorità" }
+    ]
+  },
+  "partner_cta": {
+    "badge": "Programma Partner",
+    "title": "La vostra rete vale oro",
+    "title2": "Aderite al nostro programma partner",
+    "items": ["Commissione 10–20%", "Nessun investimento", "Pagamento rapido"],
+    "commission_sub": "di commissione su tutti gli affari conclusi",
+    "cta": "Per saperne di più"
+  },
+  "showroom": {
+    "title": "Il nostro Showroom",
+    "subtitle": "Venite a scoprire le nostre realizzazioni e la nostra selezione esclusiva di persona",
+    "name": "MOBILIART Showroom",
+    "location": "Payerne, Svizzera",
+    "address_label": "Indirizzo",
+    "hours_label": "Orari di apertura",
+    "phone_label": "Telefono",
+    "contact_btn": "Contattaci",
+    "hours": [
+      { "jour": "Lunedì – Venerdì", "heure": "08:00 – 18:30" },
+      { "jour": "Sabato", "heure": "Su appuntamento" },
+      { "jour": "Domenica", "heure": "Chiuso", "closed": true }
+    ]
+  }
+}

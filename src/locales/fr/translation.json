@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "amenagement": "Aménagement",
+    "materiaux": "Matériaux",
+    "construction": "Construction",
+    "realisations": "Réalisations",
+    "exclusivites": "Exclusivités",
+    "espace_pro": "Espace Pro",
+    "apporteur": "Apporteur",
+    "a_propos": "À propos",
+    "contact": "Contact & Devis",
+    "devis": "Contact & Devis"
+  },
+  "hero": {
+    "tagline": "Concevoir • Fournir • Réaliser",
+    "subtitle": "Votre partenaire de confiance pour l'aménagement intérieur, les matériaux de construction et les structures métalliques",
+    "cta_discover": "Découvrir nos solutions",
+    "cta_devis": "Demander un devis",
+    "showroom_badge": "Showroom bientôt ouvert à Payerne 🇨🇭"
+  },
+  "footer": {
+    "description": "Entreprise familiale spécialisée dans l'aménagement intérieur haut de gamme, les matériaux de construction et les structures métalliques.",
+    "rights": "© 2024 MOBILIART – Tous droits réservés",
+    "mentions": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "univers": {
+    "title": "Nos univers",
+    "subtitle": "Des solutions complètes pensées pour chaque étape de votre projet",
+    "discover": "Découvrir",
+    "services": {
+      "amenagement": { "titre": "Aménagement Intérieur", "description": "Cuisines, salles de bain, dressings et mobilier sur mesure pour sublimer vos espaces." },
+      "materiaux": { "titre": "Matériaux & Équipements", "description": "Carrelage, parquet, pierre naturelle, fenêtres et stores de qualité professionnelle." },
+      "construction": { "titre": "Solutions de Construction", "description": "Structures métalliques, pergolas, garde-corps, portes de garage et decks extérieurs." },
+      "exclusivites": { "titre": "Exclusivités", "description": "Pièces d'art, sculptures et mobilier haut de gamme Boca do Lobo et créateurs." }
+    }
+  },
+  "promises": {
+    "title": "Nos 3 promesses",
+    "subtitle": "Pourquoi choisir Mobiliart ?",
+    "items": [
+      { "title": "Un seul partenaire", "description": "Solutions complètes de A à Z — de la conception à la réalisation, un interlocuteur unique pour simplifier votre projet." },
+      { "title": "Réseau de partenaires qualifiés", "description": "Fournisseurs et artisans de confiance sélectionnés avec soin pour garantir la qualité à chaque étape." },
+      { "title": "Accompagnement personnalisé", "description": "Conseil sur-mesure à chaque étape — votre satisfaction pleine et entière est notre première priorité." }
+    ]
+  },
+  "realisations_preview": {
+    "title": "Nos réalisations",
+    "subtitle": "Un aperçu de nos réalisations haut de gamme",
+    "see_all": "Voir toutes nos réalisations"
+  },
+  "about": {
+    "hero_title": "À Propos",
+    "hero_tagline": "Famille • Confiance • Excellence",
+    "hero_subtitle": "Entreprise familiale spécialisée dans l'aménagement haut de gamme depuis plusieurs années.",
+    "history_title": "Notre histoire",
+    "history_p1": "Entreprise familiale à taille humaine, nous avons su développer un service de vente permettant de satisfaire à 100% une large clientèle.",
+    "history_p2": "En faisant appel à notre entreprise, vous échangerez avec un unique interlocuteur expert qui vous apportera des conseils sur mesure.",
+    "history_p3": "Votre satisfaction pleine et entière représente notre première priorité.",
+    "values_title": "Nos valeurs",
+    "values_subtitle": "Notre philosophie en trois mots.",
+    "values": [
+      { "titre": "Concevoir", "desc": "Chaque projet débute par une écoute attentive de vos besoins pour créer des espaces qui vous ressemblent." },
+      { "titre": "Fournir", "desc": "Nous sélectionnons les matériaux et équipements les plus qualitatifs auprès de fournisseurs de confiance." },
+      { "titre": "Réaliser", "desc": "Nos équipes et artisans partenaires assurent une réalisation soignée, dans les délais convenus." }
+    ],
+    "find_us": "Nous trouver"
+  },
+  "amenagement": {
+    "hero_title": "Aménagement Intérieur",
+    "hero_tagline": "Concevoir • Fournir • Réaliser",
+    "hero_subtitle": "Des solutions sur mesure pour sublimer vos espaces intérieurs.",
+    "solutions_title": "Nos solutions",
+    "solutions_subtitle": "Un interlocuteur unique pour toutes vos envies d'aménagement intérieur haut de gamme.",
+    "cta_text": "Vous avez un projet d'aménagement intérieur ?",
+    "cta_btn": "Demander un devis",
+    "solutions": ["Cuisines sur mesure", "Salles de bain complètes", "Dressings & rangements", "Mobilier personnalisé", "Revêtements & finitions"]
+  },
+  "materiaux": {
+    "hero_title": "Matériaux & Équipements",
+    "hero_tagline": "Qualité • Durabilité • Élégance",
+    "hero_subtitle": "Des matériaux de qualité professionnelle pour des projets durables et élégants.",
+    "gammes_title": "Nos gammes",
+    "gammes_subtitle": "Une sélection rigoureuse des meilleures gammes pour chaque projet.",
+    "process_title": "Processus de commande",
+    "process_subtitle": "Commandez facilement en 4 étapes simples.",
+    "cta_text": "Besoin de matériaux ou d'équipements ?",
+    "cta_btn": "Obtenir une offre",
+    "gammes": ["Carrelage", "Parquet", "Pierre naturelle, marbre & granit", "Fenêtres & portes", "Stores & protections solaires"],
+    "etapes": [
+      "Consultez nos catalogues et sélectionnez vos articles (numéros de référence)",
+      "Envoyez votre demande via le formulaire de contact",
+      "Devis préparé sous 48h ouvrables",
+      "Livraison en 3–4 semaines à votre adresse"
+    ]
+  },
+  "construction": {
+    "hero_title": "Solutions de Construction",
+    "hero_tagline": "Fiabilité • Technique • Sur mesure",
+    "hero_subtitle": "Des solutions fiables, techniques et sur mesure pour vos projets de construction.",
+    "solutions_title": "Nos solutions",
+    "solutions_subtitle": "De la structure métallique au deck extérieur, nous couvrons tous vos besoins.",
+    "cta_text": "Vous avez un projet de construction ?",
+    "cta_btn": "Étudier mon projet",
+    "solutions": [
+      { "titre": "Structures métalliques", "desc": "Halles industrielles, agricoles, dépôts, ateliers" },
+      { "titre": "Pergolas & vérandas", "desc": "Bioclimatiques, motorisées, fermetures vitrées" },
+      { "titre": "Garde-corps", "desc": "Verre, inox, aluminium" },
+      { "titre": "Portes de garage", "desc": "Résidentielles, collectives, industrielles, rapides" },
+      { "titre": "Stores & protections solaires", "desc": "Intégration architecturale haut de gamme" },
+      { "titre": "Decks extérieurs", "desc": "Terrasse, balcon, finitions premium" }
+    ]
+  },
+  "realisations": {
+    "hero_title": "Nos Réalisations",
+    "hero_tagline": "Excellence • Savoir-faire • Prestige",
+    "hero_subtitle": "Découvrez quelques-unes de nos réalisations haut de gamme.",
+    "gallery_title": "Galerie de réalisations",
+    "cta_text": "Vous souhaitez un projet similaire ?",
+    "cta_btn": "Je veux un projet similaire",
+    "cat_tout": "Tout",
+    "cat_amenagement": "Aménagement intérieur",
+    "cat_cuisines": "Cuisines",
+    "cat_salle_de_bain": "Salle de bain",
+    "cat_exterieur": "Extérieur",
+    "cat_construction": "Construction"
+  },
+  "exclusivites": {
+    "hero_title": "Exclusivités",
+    "hero_tagline": "Rare • Prestigieux • Unique",
+    "hero_subtitle": "Une sélection rare et prestigieuse de pièces uniques et œuvres d'art.",
+    "range_title": "Notre gamme d'exception",
+    "range_subtitle": "Des pièces d'exception issues des plus grands créateurs mondiaux.",
+    "cta_text": "Découvrez la gamme complète au showroom de Payerne",
+    "cta_btn": "Prendre rendez-vous",
+    "items": [
+      { "titre": "Boca do Lobo", "description": "Mobilier iconique du luxe portugais" },
+      { "titre": "Sculptures en bois naturel", "description": "Œuvres uniques de créateurs" },
+      { "titre": "Sculptures en résine artistiques", "description": "Art contemporain exclusif" },
+      { "titre": "Mobilier & objets haut de gamme", "description": "Sélection premium sur mesure" }
+    ]
+  },
+  "contact": {
+    "hero_title": "Contact & Devis",
+    "hero_tagline": "Répondons à votre projet",
+    "hero_subtitle": "Notre équipe vous répond rapidement pour étudier votre projet ensemble.",
+    "coords_title": "Nos coordonnées",
+    "coords_subtitle": "Retrouvez-nous à Payerne ou contactez-nous directement.",
+    "address_label": "Adresse",
+    "phone_label": "Téléphone",
+    "email_label": "E-mail",
+    "website_label": "Site web",
+    "hours_label": "Horaires",
+    "whatsapp_btn": "Contacter directement sur WhatsApp",
+    "form_title": "Demande de devis",
+    "form_subtitle": "Décrivez-nous votre projet, nous vous recontactons rapidement.",
+    "field_nom": "Nom",
+    "field_prenom": "Prénom",
+    "field_telephone": "Téléphone",
+    "field_email": "E-mail",
+    "field_project_type": "Type de projet",
+    "field_date": "Date souhaitée",
+    "field_message": "Votre message",
+    "field_select": "Sélectionner",
+    "checkbox_terms": "J'accepte les conditions générales et la politique de confidentialité",
+    "checkbox_offers": "Je souhaite recevoir les offres et actualités Mobiliart",
+    "submit_btn": "Envoyer ma demande via WhatsApp",
+    "project_types": ["Aménagement intérieur", "Matériaux & équipements", "Solutions de construction", "Exclusivités", "Espace Professionnel", "Programme Apporteur", "Autre"],
+    "hours": [
+      { "jour": "Lundi – Vendredi", "heure": "08h00 – 18h30" },
+      { "jour": "Samedi", "heure": "Sur rendez-vous" },
+      { "jour": "Dimanche", "heure": "Fermé", "closed": true }
+    ]
+  },
+  "espacepro": {
+    "hero_title": "Espace Professionnel",
+    "hero_tagline": "Partenaires • BtoB • Excellence",
+    "hero_subtitle": "Votre partenaire pour simplifier vos projets et optimiser vos coûts.",
+    "advantages_title": "Nos avantages pro",
+    "advantages_subtitle": "Des avantages exclusifs pensés pour les professionnels.",
+    "partners_title": "Nous travaillons avec",
+    "form_title": "Demande d'accès pro",
+    "form_subtitle": "Complétez ce formulaire pour accéder à nos tarifs et services professionnels.",
+    "field_nom": "Nom / Prénom",
+    "field_societe": "Société",
+    "field_telephone": "Téléphone",
+    "field_email": "E-mail",
+    "field_activite": "Type d'activité",
+    "field_select": "Sélectionner",
+    "submit_btn": "Envoyer la demande",
+    "advantages": [
+      { "titre": "Tarifs professionnels", "desc": "Prix compétitifs réservés aux professionnels du secteur." },
+      { "titre": "Produits sur mesure", "desc": "Solutions adaptées à vos spécifications techniques." },
+      { "titre": "Approvisionnement fiable", "desc": "Délais maîtrisés et suivi de vos commandes en temps réel." },
+      { "titre": "Accompagnement technique", "desc": "Experts disponibles pour vous conseiller à chaque étape." },
+      { "titre": "Offres promotionnelles", "desc": "Accès exclusif à nos promotions et nouveaux produits." },
+      { "titre": "Suivi de commandes", "desc": "Interface dédiée pour gérer vos commandes facilement." }
+    ],
+    "cibles": ["Architectes", "Régies", "Promoteurs", "Entreprises", "Industries", "Agriculteurs"],
+    "activites": ["Architecture", "Régie immobilière", "Promotion immobilière", "Entreprise de construction", "Industrie", "Agriculture", "Autre"]
+  },
+  "apporteur": {
+    "hero_title": "Programme Apporteur d'Affaires",
+    "hero_tagline": "Opportunité • Commission • Liberté",
+    "hero_subtitle": "Transformez votre réseau en richesse durable",
+    "opportunity_title": "Une opportunité sans risque",
+    "opportunity_subtitle": "Rejoignez notre programme partenaire en toute simplicité.",
+    "commission_label": "de commission sur tous dossiers conclus",
+    "how_title": "Comment ça marche",
+    "how_subtitle": "Un processus simple et transparent.",
+    "timeline_title": "Le cheminement client",
+    "timeline_subtitle": "De la mise en relation à la commission.",
+    "targets_title": "Clients cibles",
+    "form_title": "Devenir Partenaire",
+    "form_subtitle": "Rejoignez notre réseau de partenaires dès aujourd'hui.",
+    "field_nom": "Nom / Société",
+    "field_telephone": "Téléphone",
+    "field_email": "E-mail",
+    "field_adresse": "Adresse",
+    "field_message": "Message (optionnel)",
+    "submit_btn": "Devenir Partenaire",
+    "legal_text": "Ce programme est soumis au droit suisse (CO art. 394ss, art. 412ss). For juridique : Canton de Vaud.",
+    "checkpoints": ["Aucun investissement financier", "Aucun stock ni entrepôt", "Aucun chantier à gérer", "Aucune connaissance technique obligatoire", "Vous apportez seulement des contacts et projets"],
+    "etapes": [
+      { "titre": "Ce que fournit Mobiliart", "desc": "Produits haut de gamme, expertise technique, showrooms, suivi complet du dossier." },
+      { "titre": "Votre rôle", "desc": "Présenter et démarcher : particuliers, entreprises, agriculteurs, architectes, etc." },
+      { "titre": "Ce que fait Mobiliart", "desc": "Prise de contact, RDV, devis, étude technique, négociation, coordination des travaux." },
+      { "titre": "Commission", "desc": "15% de la marge nette sur chaque affaire signée et réalisée." },
+      { "titre": "Paiement", "desc": "Sous 10 jours ouvrables après encaissement complet du client." },
+      { "titre": "Protection des contacts", "desc": "Tout contact transmis par écrit est protégé pendant 12 mois." }
+    ],
+    "timeline": ["Trouver un contact", "Présenter Mobiliart", "Envoyer contact/projet", "Mobiliart prend RDV", "Devis & signature", "Commission payée 💰"],
+    "cibles": ["Villas", "Entreprises", "Agriculteurs", "Architectes", "Gérances", "Promoteurs", "Industries"]
+  },
+  "stats": {
+    "items": [
+      { "value": "Payerne", "label": "Showroom premium", "sub": "Route de Grandcour 63C" },
+      { "value": "50+", "label": "Projets réalisés", "sub": "Aménagement & construction" },
+      { "value": "10–20%", "label": "Commission partenaires", "sub": "Programme apporteur" },
+      { "value": "100%", "label": "Satisfaction client", "sub": "Notre première priorité" }
+    ]
+  },
+  "partner_cta": {
+    "badge": "Programme Partenaire",
+    "title": "Votre réseau vaut de l'or",
+    "title2": "Rejoignez notre programme partenaire",
+    "items": ["10–20% de commission", "Aucun investissement", "Paiement rapide"],
+    "commission_sub": "de commission sur tous dossiers conclus",
+    "cta": "En savoir plus"
+  },
+  "showroom": {
+    "title": "Notre Showroom",
+    "subtitle": "Venez découvrir nos réalisations et notre sélection exclusive en personne",
+    "name": "MOBILIART Showroom",
+    "location": "Payerne, Suisse",
+    "address_label": "Adresse",
+    "hours_label": "Horaires d'ouverture",
+    "phone_label": "Téléphone",
+    "contact_btn": "Nous contacter",
+    "hours": [
+      { "jour": "Lundi – Vendredi", "heure": "08h00 – 18h30" },
+      { "jour": "Samedi", "heure": "Sur rendez-vous" },
+      { "jour": "Dimanche", "heure": "Fermé", "closed": true }
+    ]
+  }
+}

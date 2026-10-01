@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "amenagement": "Interior Design",
+    "materiaux": "Materials",
+    "construction": "Construction",
+    "realisations": "Projects",
+    "exclusivites": "Exclusives",
+    "espace_pro": "Pro Space",
+    "apporteur": "Partner Program",
+    "a_propos": "About",
+    "contact": "Contact & Quote",
+    "devis": "Contact & Quote"
+  },
+  "hero": {
+    "tagline": "Design • Supply • Build",
+    "subtitle": "Your trusted partner for interior design, construction materials and metal structures",
+    "cta_discover": "Discover our solutions",
+    "cta_devis": "Request a quote",
+    "showroom_badge": "Showroom opening soon in Payerne 🇨🇭"
+  },
+  "footer": {
+    "description": "Family business specialised in high-end interior design, construction materials and metal structures.",
+    "rights": "© 2024 MOBILIART – All rights reserved",
+    "mentions": "Legal notices",
+    "privacy": "Privacy policy"
+  },
+  "univers": {
+    "title": "Our universes",
+    "subtitle": "Complete solutions designed for every stage of your project",
+    "discover": "Discover",
+    "services": {
+      "amenagement": { "titre": "Interior Design", "description": "Custom kitchens, bathrooms, dressings and furniture to enhance your spaces." },
+      "materiaux": { "titre": "Materials & Equipment", "description": "Tiles, parquet, natural stone, windows and blinds of professional quality." },
+      "construction": { "titre": "Construction Solutions", "description": "Metal structures, pergolas, railings, garage doors and outdoor decks." },
+      "exclusivites": { "titre": "Exclusives", "description": "Art pieces, sculptures and high-end furniture from Boca do Lobo and designers." }
+    }
+  },
+  "promises": {
+    "title": "Our 3 promises",
+    "subtitle": "Why choose Mobiliart?",
+    "items": [
+      { "title": "A single partner", "description": "Complete solutions from A to Z — from design to completion, a single contact to simplify your project." },
+      { "title": "Network of qualified partners", "description": "Trusted suppliers and craftsmen carefully selected to guarantee quality at every step." },
+      { "title": "Personalised support", "description": "Tailored advice at every stage — your complete satisfaction is our top priority." }
+    ]
+  },
+  "realisations_preview": {
+    "title": "Our projects",
+    "subtitle": "A preview of our high-end achievements",
+    "see_all": "See all our projects"
+  },
+  "about": {
+    "hero_title": "About Us",
+    "hero_tagline": "Family • Trust • Excellence",
+    "hero_subtitle": "Family business specialised in high-end interior design for several years.",
+    "history_title": "Our story",
+    "history_p1": "A family business on a human scale, we have developed a sales service that fully satisfies a wide clientele.",
+    "history_p2": "When you work with us, you will deal with a single expert who will provide you with personalised advice.",
+    "history_p3": "Your complete satisfaction is our top priority.",
+    "values_title": "Our values",
+    "values_subtitle": "Our philosophy in three words.",
+    "values": [
+      { "titre": "Design", "desc": "Every project begins with attentive listening to your needs to create spaces that reflect you." },
+      { "titre": "Supply", "desc": "We select the highest quality materials and equipment from trusted suppliers." },
+      { "titre": "Build", "desc": "Our teams and partner craftsmen ensure careful execution within the agreed timeframes." }
+    ],
+    "find_us": "Find us"
+  },
+  "amenagement": {
+    "hero_title": "Interior Design",
+    "hero_tagline": "Design • Supply • Build",
+    "hero_subtitle": "Tailor-made solutions to enhance your interior spaces.",
+    "solutions_title": "Our solutions",
+    "solutions_subtitle": "A single point of contact for all your high-end interior design needs.",
+    "cta_text": "Do you have an interior design project?",
+    "cta_btn": "Request a quote",
+    "solutions": ["Custom kitchens", "Complete bathrooms", "Dressings & storage", "Custom furniture", "Coverings & finishes"]
+  },
+  "materiaux": {
+    "hero_title": "Materials & Equipment",
+    "hero_tagline": "Quality • Durability • Elegance",
+    "hero_subtitle": "Professional quality materials for durable and elegant projects.",
+    "gammes_title": "Our ranges",
+    "gammes_subtitle": "A rigorous selection of the best ranges for each project.",
+    "process_title": "Order process",
+    "process_subtitle": "Order easily in 4 simple steps.",
+    "cta_text": "Need materials or equipment?",
+    "cta_btn": "Get an offer",
+    "gammes": ["Tiling", "Parquet flooring", "Natural stone, marble & granite", "Windows & doors", "Blinds & sun protection"],
+    "etapes": [
+      "Browse our catalogues and select your items (reference numbers)",
+      "Send your request via the contact form",
+      "Quote prepared within 48 working hours",
+      "Delivery in 3–4 weeks to your address"
+    ]
+  },
+  "construction": {
+    "hero_title": "Construction Solutions",
+    "hero_tagline": "Reliability • Technical • Custom",
+    "hero_subtitle": "Reliable, technical and tailor-made solutions for your construction projects.",
+    "solutions_title": "Our solutions",
+    "solutions_subtitle": "From metal structure to outdoor deck, we cover all your needs.",
+    "cta_text": "Do you have a construction project?",
+    "cta_btn": "Study my project",
+    "solutions": [
+      { "titre": "Metal structures", "desc": "Industrial, agricultural halls, depots, workshops" },
+      { "titre": "Pergolas & verandas", "desc": "Bioclimatic, motorised, glazed enclosures" },
+      { "titre": "Railings", "desc": "Glass, stainless steel, aluminium" },
+      { "titre": "Garage doors", "desc": "Residential, collective, industrial, fast" },
+      { "titre": "Blinds & sun protection", "desc": "High-end architectural integration" },
+      { "titre": "Outdoor decks", "desc": "Terrace, balcony, premium finishes" }
+    ]
+  },
+  "realisations": {
+    "hero_title": "Our Projects",
+    "hero_tagline": "Excellence • Expertise • Prestige",
+    "hero_subtitle": "Discover some of our high-end achievements.",
+    "gallery_title": "Project gallery",
+    "cta_text": "Would you like a similar project?",
+    "cta_btn": "I want a similar project",
+    "cat_tout": "All",
+    "cat_amenagement": "Interior design",
+    "cat_cuisines": "Kitchens",
+    "cat_salle_de_bain": "Bathroom",
+    "cat_exterieur": "Outdoor",
+    "cat_construction": "Construction"
+  },
+  "exclusivites": {
+    "hero_title": "Exclusives",
+    "hero_tagline": "Rare • Prestigious • Unique",
+    "hero_subtitle": "A rare and prestigious selection of unique pieces and works of art.",
+    "range_title": "Our exceptional range",
+    "range_subtitle": "Exceptional pieces from the world's greatest designers.",
+    "cta_text": "Discover the full range at the Payerne showroom",
+    "cta_btn": "Book an appointment",
+    "items": [
+      { "titre": "Boca do Lobo", "description": "Iconic Portuguese luxury furniture" },
+      { "titre": "Natural wood sculptures", "description": "Unique works by designers" },
+      { "titre": "Artistic resin sculptures", "description": "Exclusive contemporary art" },
+      { "titre": "High-end furniture & objects", "description": "Premium custom selection" }
+    ]
+  },
+  "contact": {
+    "hero_title": "Contact & Quote",
+    "hero_tagline": "Let's discuss your project",
+    "hero_subtitle": "Our team responds quickly to study your project together.",
+    "coords_title": "Our contact details",
+    "coords_subtitle": "Find us in Payerne or contact us directly.",
+    "address_label": "Address",
+    "phone_label": "Phone",
+    "email_label": "E-mail",
+    "website_label": "Website",
+    "hours_label": "Opening hours",
+    "whatsapp_btn": "Contact us directly on WhatsApp",
+    "form_title": "Quote request",
+    "form_subtitle": "Describe your project to us, we will get back to you quickly.",
+    "field_nom": "Last name",
+    "field_prenom": "First name",
+    "field_telephone": "Phone",
+    "field_email": "E-mail",
+    "field_project_type": "Project type",
+    "field_date": "Desired date",
+    "field_message": "Your message",
+    "field_select": "Select",
+    "checkbox_terms": "I accept the general conditions and privacy policy",
+    "checkbox_offers": "I wish to receive Mobiliart offers and news",
+    "submit_btn": "Send my request via WhatsApp",
+    "project_types": ["Interior design", "Materials & equipment", "Construction solutions", "Exclusives", "Professional space", "Partner program", "Other"],
+    "hours": [
+      { "jour": "Monday – Friday", "heure": "08:00 – 18:30" },
+      { "jour": "Saturday", "heure": "By appointment" },
+      { "jour": "Sunday", "heure": "Closed", "closed": true }
+    ]
+  },
+  "espacepro": {
+    "hero_title": "Professional Space",
+    "hero_tagline": "Partners • BtoB • Excellence",
+    "hero_subtitle": "Your partner to simplify your projects and optimise your costs.",
+    "advantages_title": "Our pro advantages",
+    "advantages_subtitle": "Exclusive benefits designed for professionals.",
+    "partners_title": "We work with",
+    "form_title": "Pro access request",
+    "form_subtitle": "Complete this form to access our professional rates and services.",
+    "field_nom": "Name / First name",
+    "field_societe": "Company",
+    "field_telephone": "Phone",
+    "field_email": "E-mail",
+    "field_activite": "Type of activity",
+    "field_select": "Select",
+    "submit_btn": "Send the request",
+    "advantages": [
+      { "titre": "Professional rates", "desc": "Competitive prices reserved for industry professionals." },
+      { "titre": "Custom products", "desc": "Solutions tailored to your technical specifications." },
+      { "titre": "Reliable supply", "desc": "Controlled lead times and real-time order tracking." },
+      { "titre": "Technical support", "desc": "Experts available to advise you at every step." },
+      { "titre": "Promotional offers", "desc": "Exclusive access to our promotions and new products." },
+      { "titre": "Order tracking", "desc": "Dedicated interface to manage your orders easily." }
+    ],
+    "cibles": ["Architects", "Agencies", "Developers", "Companies", "Industries", "Farmers"],
+    "activites": ["Architecture", "Real estate agency", "Property development", "Construction company", "Industry", "Agriculture", "Other"]
+  },
+  "apporteur": {
+    "hero_title": "Business Partner Program",
+    "hero_tagline": "Opportunity • Commission • Freedom",
+    "hero_subtitle": "Turn your network into lasting wealth",
+    "opportunity_title": "A risk-free opportunity",
+    "opportunity_subtitle": "Join our partner programme with ease.",
+    "commission_label": "commission on all completed deals",
+    "how_title": "How it works",
+    "how_subtitle": "A simple and transparent process.",
+    "timeline_title": "Client journey",
+    "timeline_subtitle": "From introduction to commission.",
+    "targets_title": "Target clients",
+    "form_title": "Become a Partner",
+    "form_subtitle": "Join our partner network today.",
+    "field_nom": "Name / Company",
+    "field_telephone": "Phone",
+    "field_email": "E-mail",
+    "field_adresse": "Address",
+    "field_message": "Message (optional)",
+    "submit_btn": "Become a Partner",
+    "legal_text": "This programme is subject to Swiss law (CO art. 394ss, art. 412ss). Legal jurisdiction: Canton of Vaud.",
+    "checkpoints": ["No financial investment", "No stock or warehouse", "No construction site to manage", "No technical knowledge required", "You only bring contacts and projects"],
+    "etapes": [
+      { "titre": "What Mobiliart provides", "desc": "High-end products, technical expertise, showrooms, complete case management." },
+      { "titre": "Your role", "desc": "Present and prospect: individuals, companies, farmers, architects, etc." },
+      { "titre": "What Mobiliart does", "desc": "Contact, meetings, quotes, technical study, negotiation, work coordination." },
+      { "titre": "Commission", "desc": "15% of net margin on each signed and completed deal." },
+      { "titre": "Payment", "desc": "Within 10 working days after full client payment." },
+      { "titre": "Contact protection", "desc": "Any contact submitted in writing is protected for 12 months." }
+    ],
+    "timeline": ["Find a contact", "Present Mobiliart", "Send contact/project", "Mobiliart arranges meeting", "Quote & signature", "Commission paid 💰"],
+    "cibles": ["Villas", "Companies", "Farmers", "Architects", "Agencies", "Developers", "Industries"]
+  },
+  "stats": {
+    "items": [
+      { "value": "Payerne", "label": "Premium showroom", "sub": "Route de Grandcour 63C" },
+      { "value": "50+", "label": "Completed projects", "sub": "Interior design & construction" },
+      { "value": "10–20%", "label": "Partner commission", "sub": "Partner program" },
+      { "value": "100%", "label": "Client satisfaction", "sub": "Our top priority" }
+    ]
+  },
+  "partner_cta": {
+    "badge": "Partner Program",
+    "title": "Your network is worth gold",
+    "title2": "Join our partner program",
+    "items": ["10–20% commission", "No investment", "Fast payment"],
+    "commission_sub": "commission on all completed deals",
+    "cta": "Learn more"
+  },
+  "showroom": {
+    "title": "Our Showroom",
+    "subtitle": "Come and discover our projects and exclusive selection in person",
+    "name": "MOBILIART Showroom",
+    "location": "Payerne, Switzerland",
+    "address_label": "Address",
+    "hours_label": "Opening hours",
+    "phone_label": "Phone",
+    "contact_btn": "Contact us",
+    "hours": [
+      { "jour": "Monday – Friday", "heure": "08:00 – 18:30" },
+      { "jour": "Saturday", "heure": "By appointment" },
+      { "jour": "Sunday", "heure": "Closed", "closed": true }
+    ]
+  }
+}

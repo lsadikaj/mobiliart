@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" fill="#1e1e1e"/>
+
+  <!-- Top gold rule -->
+  <rect x="8" y="9" width="48" height="1.2" fill="#C9A84C" opacity="0.7"/>
+  <!-- Bottom gold rule -->
+  <rect x="8" y="53.8" width="48" height="1.2" fill="#C9A84C" opacity="0.7"/>
+
+  <!-- M letterform (geometric, filled) -->
+  <path
+    d="M11,51 L11,15 L32,36 L53,15 L53,51 L48,51 L48,23 L32,42 L16,23 L16,51 Z"
+    fill="#C9A84C"
+  />
+
+  <!-- Bottom serifs -->
+  <rect x="6"  y="48" width="14" height="3" fill="#C9A84C"/>
+  <rect x="44" y="48" width="14" height="3" fill="#C9A84C"/>
+</svg>

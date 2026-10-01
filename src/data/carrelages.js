@@ -1,0 +1,157 @@
+export const sousCategories = [
+  { id: 'grands-formats',      label: 'Grands formats' },
+  { id: 'carrelage-classique', label: 'Carrelage classique' },
+  { id: 'imitation-bois',      label: 'Imitation bois' },
+  { id: 'mosaiques',           label: 'Mosaïques' },
+  { id: 'pierres-naturelles',  label: 'Pierres naturelles' },
+]
+
+const B = '/images/carrelages'
+const F = {
+  'grands-formats':      'grands_formats',
+  'carrelage-classique': 'carrelage_classique',
+  'imitation-bois':      'imitation_bois',
+  'mosaiques':           'mosaiques',
+  'pierres-naturelles':  'pierres_naturelles',
+}
+
+function p(ref, nom, format, finition, cat) {
+  return {
+    ref, nom, format, finition, subcategorie: cat,
+    imageProduit:  `${B}/${F[cat]}/${ref}-produit.png`,
+    imageAmbiance: `${B}/${F[cat]}/${ref}-ambiance.png`,
+  }
+}
+
+const GF = 'grands-formats'
+const CC = 'carrelage-classique'
+const IB = 'imitation-bois'
+const MO = 'mosaiques'
+const PN = 'pierres-naturelles'
+
+export const carrelages = [
+
+  // ── GRANDS FORMATS ──────────────────────────────────────────
+  p('LRM120260BLAP',   'Blanc Poli',           '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260ENFOP',  'Enfumé Poli',          '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260IVOP',   'Ivoire Poli',          '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260NOIRP',  'Noir Poli',            '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260SKYP',   'Sky Poli',             '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260PEAP',   'Pêche Poli',           '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260MABLKP', 'Marbre Noir Poli',     '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260MAGRP',  'Marbre Gris Poli',     '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260MASMP',  'Marbre Sombre Poli',   '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260MOBLKP', 'Mokka Noir Poli',      '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260MOBRP',  'Mokka Brun Poli',      '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260CESMP',  'Cézar Mat',            '120 × 260 cm', 'Mat',      GF),
+  p('LRM120260COAP',   'Corail Poli',          '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260ENDAP',  'Enda Poli',            '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260ENINP',  'Enin Poli',            '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260STCOLP', 'Stone Colorado Poli',  '120 × 260 cm', 'Poli',     GF),
+  p('LRM120260STSILP', 'Stone Silice Poli',    '120 × 260 cm', 'Poli',     GF),
+  p('LRM120240ABNUP',  'Arabesque Nude Poli',  '120 × 240 cm', 'Poli',     GF),
+  p('LRM120240ABWHP',  'Arabesque Blanc Poli', '120 × 240 cm', 'Poli',     GF),
+  p('LRM120250VEGONR', 'Végon Naturel',        '120 × 250 cm', 'Naturel',  GF),
+
+  // ── CARRELAGE CLASSIQUE ──────────────────────────────────────
+  p('AR120120ORBP',    'Orbe Poli',            '120 × 120 cm', 'Poli',     CC),
+  p('AR60120NVP',      'Noir Veiné Poli',      '60 × 120 cm',  'Poli',     CC),
+  p('AR60120NVPI',     'Noir Veiné Irisé',     '60 × 120 cm',  'Irisé',    CC),
+  p('AR60120SCUP',     'Sculpture Poli',       '60 × 120 cm',  'Poli',     CC),
+  p('BRP120120',       'Brun Poli',            '120 × 120 cm', 'Poli',     CC),
+  p('MR60120AP',       'Anthracite Poli',      '60 × 120 cm',  'Poli',     CC),
+  p('MR60120NMP',      'Noir Mat',             '60 × 120 cm',  'Mat',      CC),
+  p('MR60120PBP',      'Pierre Beige Poli',    '60 × 120 cm',  'Poli',     CC),
+  p('MR60120SLNBLK',   'Sillon Noir',          '60 × 120 cm',  'Mat',      CC),
+  p('MR60120TAWP',     'Taupe Poli',           '60 × 120 cm',  'Poli',     CC),
+  p('MRZ6060GRP',      'Gris Poli',            '60 × 60 cm',   'Poli',     CC),
+  p('NRB60120WM',      'Blanc Mat',            '60 × 120 cm',  'Mat',      CC),
+  p('PRM60120BROP',    'Brun Poli',            '60 × 120 cm',  'Poli',     CC),
+  p('PRM60120NUDP',    'Nude Poli',            '60 × 120 cm',  'Poli',     CC),
+  p('PRM60120PRSP',    'Pierre Rose Poli',     '60 × 120 cm',  'Poli',     CC),
+  p('RRO60120GRP',     'Gris Poli',            '60 × 120 cm',  'Poli',     CC),
+  p('SRC60120DI',      'Diamant Irisé',        '60 × 120 cm',  'Irisé',    CC),
+  p('SRP60120BLKP',    'Noir Poli',            '60 × 120 cm',  'Poli',     CC),
+  p('TRN60120BI',      'Travertin Beige',      '60 × 120 cm',  'Irisé',    CC),
+  p('TRN60120PB',      'Travertin Pierre',     '60 × 120 cm',  'Naturel',  CC),
+
+  // ── IMITATION BOIS ──────────────────────────────────────────
+  p('AR20120AU',  'Aulne',    '20 × 120 cm', 'Naturel', IB),
+  p('AR20120BO',  'Bois',     '20 × 120 cm', 'Naturel', IB),
+  p('AR20120CE',  'Cèdre',    '20 × 120 cm', 'Naturel', IB),
+  p('AR20120IC',  'Iced',     '20 × 120 cm', 'Mat',     IB),
+  p('CR11120NU',  'Nude',     '11 × 120 cm', 'Naturel', IB),
+  p('CR11120RO',  'Rosé',     '11 × 120 cm', 'Naturel', IB),
+  p('PRB20120CL', 'Clair',    '20 × 120 cm', 'Naturel', IB),
+  p('PRB20120N',  'Naturel',  '20 × 120 cm', 'Naturel', IB),
+
+  // ── MOSAÏQUES ───────────────────────────────────────────────
+  p('0220GIVERNY1',      'Giverny',           'Feuille',  'Naturel', MO),
+  p('222A42',            'Série 222 — 42',    'Feuille',  'Naturel', MO),
+  p('222A51R1',          'Série 222 — 51',    'Feuille',  'Naturel', MO),
+  p('222A51R1I',         'Série 222 — 51 I',  'Feuille',  'Irisé',   MO),
+  p('5225F1R1',          'Série 5225 — F1',   'Feuille',  'Mat',     MO),
+  p('5225F63R1',         'Série 5225 — F63',  'Feuille',  'Mat',     MO),
+  p('5225MIXR1',         'Série 5225 Mix',    'Feuille',  'Mat',     MO),
+  p('5225TERRA11',       'Terra',             'Feuille',  'Naturel', MO),
+  p('522PAIXAO1',        'Paixão',            'Feuille',  'Naturel', MO),
+  p('BR156ZP',           'Brique Zinc Poli',  '15 × 6 cm','Poli',    MO),
+  p('BR2301YB',          'Brique Jaune',      '23 × 1 cm','Naturel', MO),
+  p('MR01',              'Classic',           'Feuille',  'Naturel', MO),
+  p('MRA15308B',         'MRA — Beige',       'Feuille',  'Naturel', MO),
+  p('MRA15308E',         'MRA — Écru',        'Feuille',  'Naturel', MO),
+  p('MRA15308P',         'MRA — Poli',        'Feuille',  'Poli',    MO),
+  p('MRAT2586',          'MRAT',              'Feuille',  'Naturel', MO),
+  p('MRBDA2346',         'MRBDA — 23×46',     'Feuille',  'Naturel', MO),
+  p('MRBDA97',           'MRBDA — 97',        'Feuille',  'Naturel', MO),
+  p('MRBDA97I',          'MRBDA — 97 Irisé',  'Feuille',  'Irisé',   MO),
+  p('MRGFHS02',          'Gold HS — 02',      'Feuille',  'Poli',    MO),
+  p('MRGFHS11',          'Gold HS — 11',      'Feuille',  'Poli',    MO),
+  p('MRGFHS13',          'Gold HS — 13',      'Feuille',  'Poli',    MO),
+  p('MRGFHS18',          'Gold HS — 18',      'Feuille',  'Poli',    MO),
+  p('MRGOHS001',         'Gold — 001',        'Feuille',  'Poli',    MO),
+  p('MRGOHS006',         'Gold — 006',        'Feuille',  'Poli',    MO),
+  p('MRH25066RED',       'Rouge',             'Feuille',  'Naturel', MO),
+  p('MRHEXABL',          'Hexagone Blanc',    'Feuille',  'Mat',     MO),
+  p('MRIRIS1005',        'Iris — 10×5',       'Feuille',  'Irisé',   MO),
+  p('MRIRIS1010',        'Iris — 10×10',      'Feuille',  'Irisé',   MO),
+  p('MRIRISAZC',         'Iris Azur',         'Feuille',  'Irisé',   MO),
+  p('MRJP7313',          'JP — 73×13',        'Feuille',  'Naturel', MO),
+  p('MRJXS201',          'JXS — 201',         'Feuille',  'Naturel', MO),
+  p('MRJXS202',          'JXS — 202',         'Feuille',  'Naturel', MO),
+  p('MRLAGS54',          'LAGS — 54',         'Feuille',  'Naturel', MO),
+  p('MRLEJOBLK',         'Lejo Noir',         'Feuille',  'Mat',     MO),
+  p('MRLEJOCUBIC',       'Lejo Cubic',        'Feuille',  '3D',      MO),
+  p('MRLOGICBR743M',     'Logic Brun',        'Feuille',  'Mat',     MO),
+  p('MRLOGICPR741M',     'Logic Prune',       'Feuille',  'Mat',     MO),
+  p('MRLOGICPW',         'Logic Blanc',       'Feuille',  'Mat',     MO),
+  p('MRLP302',           'LP — 302',          'Feuille',  'Naturel', MO),
+  p('MRMAG2473A04SW',    'Magnolia — Blanc',  'Feuille',  'Poli',    MO),
+  p('MRMAG2473A05SBK',   'Magnolia — Noir',   'Feuille',  'Poli',    MO),
+  p('MRMAG2473B02RG',    'Magnolia — Rose',   'Feuille',  'Poli',    MO),
+  p('MRMAG4848C09GLD',   'Magnolia Or',       'Feuille',  'Poli',    MO),
+  p('MRNANIBLACK',       'Nani Noir',         'Feuille',  'Mat',     MO),
+  p('MROHS309',          'OHS — 309',         'Feuille',  'Naturel', MO),
+  p('MRPUNKM',           'Punk Mat',          'Feuille',  'Mat',     MO),
+  p('RMLAD11',           'Lad — 11',          'Feuille',  'Naturel', MO),
+
+  // ── PIERRES NATURELLES ──────────────────────────────────────
+  p('CR1308',           'Crema',              '13 × 8 cm',  'Naturel', PN),
+  p('JRVS504E',         'Jarvis',             '50 × 40 cm', 'Naturel', PN),
+  p('JRZS0509B',        'Jarzo — B',          '5 × 9 cm',   'Naturel', PN),
+  p('JRZS0510C',        'Jarzo — C',          '5 × 10 cm',  'Naturel', PN),
+  p('JRZS0511B',        'Jarzo — B2',         '5 × 11 cm',  'Naturel', PN),
+  p('LRAJ106XZ',        'La Raj XZ',          '10 × 6 cm',  'Naturel', PN),
+  p('LRAJ1308HBG',      'La Raj — Beige',     '13 × 8 cm',  'Naturel', PN),
+  p('LRAJ1308JX',       'La Raj — JX',        '13 × 8 cm',  'Naturel', PN),
+  p('LRAJ1308SDB',      'La Raj — SDB',       '13 × 8 cm',  'Naturel', PN),
+  p('LRAJ1807SB',       'La Raj — SB',        '18 × 7 cm',  'Naturel', PN),
+  p('SR0516A',          'Stone Rock — A',     '5 × 16 cm',  'Naturel', PN),
+  p('SR0516B',          'Stone Rock — B',     '5 × 16 cm',  'Naturel', PN),
+  p('SR0516C',          'Stone Rock — C',     '5 × 16 cm',  'Naturel', PN),
+  p('SRT1045CAR',       'Travertin Caramel',  '10 × 45 cm', 'Naturel', PN),
+  p('SRT1560MLN',       'Travertin Milan',    '15 × 60 cm', 'Naturel', PN),
+  p('SRT1560NVR',       'Travertin Noir',     '15 × 60 cm', 'Naturel', PN),
+  p('SRT1560TVLGR',     'Travertin Vert',     '15 × 60 cm', 'Naturel', PN),
+  p('SRTLAJ1308LRSIL',  'La Raj Silice',      '13 × 8 cm',  'Naturel', PN),
+]
